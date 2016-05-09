@@ -7,7 +7,7 @@ http://forum.xda-developers.com/nexus-6p/development/rom-6-0-1-official-ownrom-v
 Please do Mention me on XDA with @OwnDroid
 
 #how to use?
-open up xdathread.txt
+open up XDAThread.txt
 copy all the text
 paste in your thread on xda
 change everyting to reference your own build...
