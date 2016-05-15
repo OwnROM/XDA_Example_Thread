@@ -15,7 +15,8 @@ A lot.[/CENTER][/CODE]
 [img]https://lh3.googleusercontent.com/-PxUHLlSYZQs/VYQslZmF4ZI/AAAAAAAAEAI/oqz2LY1NqNA/w346-h252/OwnROM%2Bbanner.png[/img][/CENTER]
 
 [FONT="Lucida Console"][SIZE="5"]Features:[/SIZE][/FONT]
-[HIDE][SIZE="3"]General:[/SIZE]
+[HIDE][SIZE="2"][COLOR="Red"]All new Features in last build displayed in RED[/COLOR][/SIZE]
+[SIZE="3"]General:[/SIZE]
 [HIDE]
 - [COLOR="Orange"][B][I][U]FULLY TRANSLATED TO DUTCH (NL)!!!!![/U][/I][/B][/COLOR]
 - Voted Apps:
@@ -38,8 +39,10 @@ A lot.[/CENTER][/CODE]
 [HIDE]
 - Statusbar icons
 - Hide SuperUser icon
+[COLOR="red"][B]- OwnROM icon in statusbar
+  Color[/B][/COLOR]
 - Clock and Date Settings
-  Hide, font, color, seconds, size, date format
+  Hide, font, color, size, date format
 - Battery options
    Icon, percentage, BatteryBar (Location, Style, Charge animation, color, width)
 - Others
@@ -48,11 +51,13 @@ A lot.[/CENTER][/CODE]
 [SIZE="2"]Notification Drawer:[/SIZE]
 [HIDE]
 - Quick Open
+[COLOR="red"][B]- Time Contextual Headers[/B][/COLOR]
 [/HIDE]
 [SIZE="2"]Buttons:[/SIZE]
 [HIDE]
 - Navbar 
   Show Navbar, Left handed modes, Dimensions, Re-arange, Cursor control, Color, DT2S
+[B][COLOR="Red"]- SlimDIM[/COLOR][/B]
 - Hardware Buttons
   Remap, Enable, Disable
 - Volume Buttons
@@ -183,4 +188,4 @@ Anybody left out please do feel free to PM me :)
 [B]Status:[/B] Stable
 
 [B]Created[/B] 2016-04-12
-[B]Last Updated[/B] 2016-05-09
+[B]Last Updated[/B] 2016-05-15
