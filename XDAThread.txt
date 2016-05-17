@@ -15,7 +15,7 @@ A lot.[/CENTER][/CODE]
 [img]https://lh3.googleusercontent.com/-PxUHLlSYZQs/VYQslZmF4ZI/AAAAAAAAEAI/oqz2LY1NqNA/w346-h252/OwnROM%2Bbanner.png[/img][/CENTER]
 
 [FONT="Lucida Console"][SIZE="5"]Features:[/SIZE][/FONT]
-[HIDE][SIZE="2"][COLOR="Red"]All new Features in last build are displayed in RED[/COLOR][/SIZE]
+[HIDE][SIZE="2"][COLOR="Red"]All the new Features in last build are displayed in RED[/COLOR][/SIZE]
 [SIZE="3"]General:[/SIZE]
 [HIDE]
 - Voted Apps:
