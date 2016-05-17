@@ -1,6 +1,6 @@
 [CENTER][IMG]http://i.imgur.com/H6D8VFS.png[/IMG]
 
-[CENTER][COLOR="Red"][B]please be patient and all features will find there way back... 
+[CENTER][COLOR="Red"][B]please be patient and all features will find their way back... 
 [/B][/COLOR][/CENTER]
 
 
@@ -15,7 +15,7 @@ A lot.[/CENTER][/CODE]
 [img]https://lh3.googleusercontent.com/-PxUHLlSYZQs/VYQslZmF4ZI/AAAAAAAAEAI/oqz2LY1NqNA/w346-h252/OwnROM%2Bbanner.png[/img][/CENTER]
 
 [FONT="Lucida Console"][SIZE="5"]Features:[/SIZE][/FONT]
-[HIDE][SIZE="2"][COLOR="Red"]All new Features in last build displayed in RED[/COLOR][/SIZE]
+[HIDE][SIZE="2"][COLOR="Red"]All new Features in last build are displayed in RED[/COLOR][/SIZE]
 [SIZE="3"]General:[/SIZE]
 [HIDE]
 - Voted Apps:
@@ -130,14 +130,11 @@ A lot.[/CENTER][/CODE]
 [/HIDE]
 
 [FONT="Lucida Console"][SIZE="5"]Screenshots:[/SIZE][/FONT]
-[HIDE][URL="https://plus.google.com/+MarkVisser10021991/posts/YHtrnYAm8p1"] CLICK HERE FOR SCREENIES[/URL][/HIDE]
+[HIDE][URL="https://plus.google.com/+MarkVisser10021991/posts/YHtrnYAm8p1"] CLICK HERE FOR SCREENSHOTS[/URL][/HIDE]
 
 [FONT="Lucida Console"][SIZE="5"]Downloads:[/SIZE][/FONT]
 [HIDE]
-[URL="https://www.androidfilehost.com/?w=files&flid=54055"]AFH[/URL]
-[URL="https://sourceforge.net/projects/ownrom/files/angler/"]Source Forge[/URL]
-[URL="https://www.androidfilehost.com/?w=files&flid=41020"]Banks Dynamic G-apps[/URL]
-[URL="https://www.androidfilehost.com/?w=files&flid=43153"]Vendors, BL and Radio's[/URL]
+<add download links here>
 [/HIDE]
 
 [FONT="Lucida Console"][SIZE="5"]Installation instructions:[/SIZE][/FONT]
@@ -158,8 +155,7 @@ A lot.[/CENTER][/CODE]
 [URL="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6D47RR4JRTHAY"]Donations[/URL] 
 
 [FONT="Lucida Console"][SIZE="5"]Thanks to:[/SIZE][/FONT]
-Me (lol)
-The Whole OwnDroid Team (Where Would i been without you guys...)
+The Whole OwnDroid Team
 AOSP
 Google
 CyanogenMod
