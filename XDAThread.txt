@@ -162,8 +162,7 @@ CyanogenMod
 AOSPA
 OmniROM
 SlimROMs
-Beanstown106 - Vendor, BL and Radio files
-Banks - G-apps
+G-apps
 Most importantly YOU - the users
 
 Anybody left out please do feel free to PM me :)
