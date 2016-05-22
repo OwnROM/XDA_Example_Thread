@@ -1,6 +1,6 @@
 [CENTER][IMG]http://i.imgur.com/H6D8VFS.png[/IMG]
 
-[CENTER][COLOR="Red"][B]please be patient and all features will find there way back... 
+[CENTER][COLOR="Red"][B]please be patient and all features will find their way back... 
 [/B][/COLOR][/CENTER]
 
 
@@ -15,10 +15,9 @@ A lot.[/CENTER][/CODE]
 [img]https://lh3.googleusercontent.com/-PxUHLlSYZQs/VYQslZmF4ZI/AAAAAAAAEAI/oqz2LY1NqNA/w346-h252/OwnROM%2Bbanner.png[/img][/CENTER]
 
 [FONT="Lucida Console"][SIZE="5"]Features:[/SIZE][/FONT]
-[HIDE][SIZE="2"][COLOR="Red"]All new Features in last build displayed in RED[/COLOR][/SIZE]
+[HIDE][SIZE="2"][COLOR="Red"]All the new Features in last build are displayed in RED[/COLOR][/SIZE]
 [SIZE="3"]General:[/SIZE]
 [HIDE]
-- [COLOR="Orange"][B][I][U]FULLY TRANSLATED TO DUTCH (NL)!!!!![/U][/I][/B][/COLOR]
 - Voted Apps:
 [HIDE]
   - Nova Launcher (instead of Trebuchet)
@@ -27,7 +26,6 @@ A lot.[/CENTER][/CODE]
 [COLOR="Red"](Join us on G+ (link below) to help us make importand choices)[/COLOR]
 [/HIDE]
 - ROM and Kernel build with UBER-TC
-- OwnKernel-Angler
 - Root Acces (Activate trough Developer Options)
 - Optional decryption
 - CMTE
@@ -78,7 +76,7 @@ A lot.[/CENTER][/CODE]
 [HIDE]
 - Link Volumes
 - Incrasing Ringtone
-- Vibration intensetie
+- Vibration intensity
 [/HIDE]
 [SIZE="3"]Display and Lights[/SIZE]
 [HIDE]
@@ -132,14 +130,11 @@ A lot.[/CENTER][/CODE]
 [/HIDE]
 
 [FONT="Lucida Console"][SIZE="5"]Screenshots:[/SIZE][/FONT]
-[HIDE][URL="https://plus.google.com/+MarkVisser10021991/posts/YHtrnYAm8p1"] CLICK HERE FOR SCREENIES[/URL][/HIDE]
+[HIDE][URL="https://plus.google.com/+MarkVisser10021991/posts/YHtrnYAm8p1"] CLICK HERE FOR SCREENSHOTS[/URL][/HIDE]
 
 [FONT="Lucida Console"][SIZE="5"]Downloads:[/SIZE][/FONT]
 [HIDE]
-[URL="https://www.androidfilehost.com/?w=files&flid=54055"]AFH[/URL]
-[URL="https://sourceforge.net/projects/ownrom/files/angler/"]Source Forge[/URL]
-[URL="https://www.androidfilehost.com/?w=files&flid=41020"]Banks Dynamic G-apps[/URL]
-[URL="https://www.androidfilehost.com/?w=files&flid=43153"]Vendors, BL and Radio's[/URL]
+<add download links here>
 [/HIDE]
 
 [FONT="Lucida Console"][SIZE="5"]Installation instructions:[/SIZE][/FONT]
@@ -149,43 +144,25 @@ A lot.[/CENTER][/CODE]
 3. Flash OwnROM
 4. Flash G-apps
 5. Flash Custom Kernel of your liking or keep stock
-6. Flash Matching Vendor.img
-5. Boot :)[/HIDE]
+6. Boot :)[/HIDE]
 
 [FONT="Lucida Console"][SIZE="5"]Links:[/SIZE][/FONT]
 [URL="https://github.com/OwnROM"]OwnROM Github[/URL]
 [URL="https://github.com/OwnROM-Devices"]OwnROM Devices and Kernel Github[/URL]
 [URL="ownrom.github.com"]OwnROM Website[/URL]
 [URL="https://plus.google.com/u/0/communities/108869588356214314591"]OwnROM G+[/URL]
-[URL="http://owndroid.nl/changelog.html"]Changelog[/URL]
+[URL="https://raw.githubusercontent.com/OwnROM/android/own-mm/Changelog.txt"]Changelog[/URL]
 [URL="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6D47RR4JRTHAY"]Donations[/URL] 
 
 [FONT="Lucida Console"][SIZE="5"]Thanks to:[/SIZE][/FONT]
-Me (lol)
-The Whole OwnDroid Team (Where Would i been without you guys...)
+The Whole OwnDroid Team
 AOSP
 Google
 CyanogenMod
 AOSPA
 OmniROM
 SlimROMs
-Beanstown106 - Vendor, BL and Radio files
-Banks - G-apps
+G-apps
 Most importantly YOU - the users
 
 Anybody left out please do feel free to PM me :)
-
-[B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
-[SIZE=3][B]OwnROM for Angler, ROM for the Google Nexus 6p[/B][/SIZE]
-
-[B][U]Contributors[/U][/B]
-[URL="https://plus.google.com/u/0/communities/108869588356214314591"]OwnDroid Team[/URL] Get to know them Via G+
-[B]ROM OS Version:[/B] 6.0.x Lollipop
-[B]ROM Firmware Required:[/B] [URL="https://dl.twrp.me/angler/"]TWRP 3.0.2-0[/URL] + a Nexus 6p :P
-[B]Based On:[/B] CyanogenMod
-
-[B][U]Version Information[/U][/B]
-[B]Status:[/B] Stable
-
-[B]Created[/B] 2016-04-12
-[B]Last Updated[/B] 2016-05-15
