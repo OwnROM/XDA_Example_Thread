@@ -15,7 +15,7 @@ A lot.[/CENTER][/CODE]
 [img]https://lh3.googleusercontent.com/-PxUHLlSYZQs/VYQslZmF4ZI/AAAAAAAAEAI/oqz2LY1NqNA/w346-h252/OwnROM%2Bbanner.png[/img][/CENTER]
 
 [FONT="Lucida Console"][SIZE="5"]Features:[/SIZE][/FONT]
-[HIDE][SIZE="2"][COLOR="Red"]All the new Features in last build are displayed in RED[/COLOR][/SIZE]
+[HIDE][SIZE="2"][COLOR="Red"]All new Features in last build displayed in RED[/COLOR][/SIZE]
 [SIZE="3"]General:[/SIZE]
 [HIDE]
 - [COLOR="Orange"][B][I][U]FULLY TRANSLATED TO DUTCH (NL)!!!!![/U][/I][/B][/COLOR]
@@ -27,10 +27,12 @@ A lot.[/CENTER][/CODE]
 [COLOR="Red"](Join us on G+ (link below) to help us make importand choices)[/COLOR]
 [/HIDE]
 - ROM and Kernel build with UBER-TC
+- OwnKernel-Angler
 - Root Acces (Activate trough Developer Options)
 - Optional decryption
 - CMTE
 - Quick Tiles Customizations
+- [B][COLOR="red"]Improved Colorpicker[/COLOR][/B]
 [/HIDE]
 [SIZE="3"]OwnSettings:[/SIZE]
 [HIDE]
@@ -38,31 +40,42 @@ A lot.[/CENTER][/CODE]
 [HIDE]
 - Statusbar icons
 - Hide SuperUser icon
-[COLOR="red"][B]- OwnROM icon in statusbar
-  Color[/B][/COLOR]
+- OwnROM icon in statusbar
 - Clock and Date Settings
   Hide, font, color, size, date format
 - Battery options
    Icon, percentage, BatteryBar (Location, Style, Charge animation, color, width)
 - Others
-   Screenbrightnes control, Network Traffic (Color, BPS, Update Interval, Automatic hide), Notification Count
+   Screenbrightnes control, Network Traffic (Color, BPS, Update Interval, Automatic hide[B][COLOR="red"]Color arrows to, Updated[/COLOR][/B]), Notification Count
 [/HIDE]
 [SIZE="2"]Notification Drawer:[/SIZE]
 [HIDE]
 - Quick Open
-[COLOR="red"][B]- Time Contextual Headers[/B][/COLOR]
+- Time Contextual Headers
 [/HIDE]
 [SIZE="2"]Buttons:[/SIZE]
 [HIDE]
 - Navbar 
   Show Navbar, Left handed modes, Dimensions, Re-arange, Cursor control, Color, DT2S
-[B][COLOR="Red"]- SlimDIM[/COLOR][/B]
+- SlimDIM
 - Hardware Buttons
   Remap, Enable, Disable
 - Volume Buttons
   Wake Device, Music Control, Cursor Control, Switch Orientation
 - Recents Apps Screen
   Fullscreen, Show Search Bar, RAM Bar, Close all Recents Button (Location, Inlude forground app)
+[B][COLOR="Red"]- OmniSwitch (+ Option to set as default recents screen[/COLOR][/B]
+[/HIDE]
+[SIZE="2"][B][COLOR="red"] Animations:[/COLOR][/B][/SIZE]
+[Hide]
+[B][COLOR="red"]- System animations
+- Toast animations
+- Listview animations
+- Listview interpolator[/COLOR][/B]
+[/HIDE]
+[SIZE="2"][B][COLOR="red"]Gesture anywhere[/COLOR][/B][/SIZE]
+[HIDE]
+[B][COLOR="Red"]- Set gestures to open up you're favorit apps[/COLOR][/B]
 [/HIDE]
 [SIZE="2"]OwnROM ChangeLog[/SIZE]
 [HIDE]
@@ -77,7 +90,7 @@ A lot.[/CENTER][/CODE]
 [HIDE]
 - Link Volumes
 - Incrasing Ringtone
-- Vibration intensity
+- Vibration intensetie
 [/HIDE]
 [SIZE="3"]Display and Lights[/SIZE]
 [HIDE]
