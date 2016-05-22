@@ -18,6 +18,7 @@ A lot.[/CENTER][/CODE]
 [HIDE][SIZE="2"][COLOR="Red"]All the new Features in last build are displayed in RED[/COLOR][/SIZE]
 [SIZE="3"]General:[/SIZE]
 [HIDE]
+- [COLOR="Orange"][B][I][U]FULLY TRANSLATED TO DUTCH (NL)!!!!![/U][/I][/B][/COLOR]
 - Voted Apps:
 [HIDE]
   - Nova Launcher (instead of Trebuchet)
