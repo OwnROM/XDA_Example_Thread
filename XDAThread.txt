@@ -15,7 +15,8 @@ A lot.[/CENTER][/CODE]
 [img]https://lh3.googleusercontent.com/-PxUHLlSYZQs/VYQslZmF4ZI/AAAAAAAAEAI/oqz2LY1NqNA/w346-h252/OwnROM%2Bbanner.png[/img][/CENTER]
 
 [FONT="Lucida Console"][SIZE="5"]Features:[/SIZE][/FONT]
-[HIDE][SIZE="2"][COLOR="Red"]All new Features in last build displayed in RED[/COLOR][/SIZE]
+[HIDE]
+[SIZE="2"][COLOR="Red"]All new Features in last build displayed in RED[/COLOR][/SIZE]
 [SIZE="3"]General:[/SIZE]
 [HIDE]
 - [COLOR="Orange"][B][I][U]FULLY TRANSLATED TO DUTCH (NL)!!!!![/U][/I][/B][/COLOR]
@@ -32,7 +33,7 @@ A lot.[/CENTER][/CODE]
 - Optional decryption
 - CMTE
 - Quick Tiles Customizations
-- [B][COLOR="red"]Improved Colorpicker[/COLOR][/B]
+-Improved Colorpicker
 [/HIDE]
 [SIZE="3"]OwnSettings:[/SIZE]
 [HIDE]
@@ -52,6 +53,7 @@ A lot.[/CENTER][/CODE]
 [HIDE]
 - Quick Open
 - Time Contextual Headers
+- [B][COLOR="red"]Caf Task Manager[/COLOR][/B]
 [/HIDE]
 [SIZE="2"]Buttons:[/SIZE]
 [HIDE]
@@ -60,22 +62,33 @@ A lot.[/CENTER][/CODE]
 - SlimDIM
 - Hardware Buttons
   Remap, Enable, Disable
+- [B][COLOR="red"]PA PIE (V3.0)[/COLOR][/B]
 - Volume Buttons
   Wake Device, Music Control, Cursor Control, Switch Orientation
-- Recents Apps Screen
-  Fullscreen, Show Search Bar, RAM Bar, Close all Recents Button (Location, Inlude forground app)
-[B][COLOR="Red"]- OmniSwitch (+ Option to set as default recents screen[/COLOR][/B]
 [/HIDE]
-[SIZE="2"][B][COLOR="red"] Animations:[/COLOR][/B][/SIZE]
+[SIZE="2"]- Recents Apps Screen:[/SIZE]
+[HIDE]
+  Fullscreen, Show Search Bar, RAM Bar, Close all Recents Button (Location, Inlude forground app)
+- OmniSwitch (+ Option to set as default recents screen
+[COLOR="Red"][B]- Slims recent apps screen + appbar[/B][/COLOR]
+[/HIDE]
+[COLOR="red"][SIZE="2"]Lockscreen: [/SIZE][/COLOR]
+[HIDE]
+[COLOR="red"][B]-Slims Lockscreen Shortcuts[/B][/COLOR]
+-CMs Corner Shortcuts
+[/HIDE]
+[COLOR="red"][SIZE="2"]Gestures:[/SIZE][/COLOR]
+[HIDE]
+[COLOR="red"][B]- App Side Bar
+- App Circle Side Bar[/B][/COLOR]
+- Gesture Anywhere
+[/HIDE]
+[SIZE="2"]Animations:[/SIZE]
 [Hide]
-[B][COLOR="red"]- System animations
+- System animations
 - Toast animations
 - Listview animations
 - Listview interpolator[/COLOR][/B]
-[/HIDE]
-[SIZE="2"][B][COLOR="red"]Gesture anywhere[/COLOR][/B][/SIZE]
-[HIDE]
-[B][COLOR="Red"]- Set gestures to open up you're favorit apps[/COLOR][/B]
 [/HIDE]
 [SIZE="2"]OwnROM ChangeLog[/SIZE]
 [HIDE]
@@ -102,6 +115,7 @@ A lot.[/CENTER][/CODE]
 - Active Display
 - DT2W
 - DT2S
+- [COLOR="red"][B]Slims Doze Options[/B][/COLOR]
 [/HIDE]
 [SIZE="2"]Interface[/SIZE]
 [HIDE]
@@ -114,7 +128,6 @@ A lot.[/CENTER][/CODE]
 [HIDE]
 - Battery light
 - Notification light
-[/HIDE]
 [/HIDE]
 [SIZE="3"]Notifications:[/SIZE]
 [HIDE]
@@ -141,6 +154,7 @@ A lot.[/CENTER][/CODE]
 [SIZE="3"]System Profiles[/SIZE]
 [SIZE="3"]App Permisions[/SIZE]
 [SIZE="3"]Privacy Guard[/SIZE]
+[/HIDE]
 [/HIDE]
 
 [FONT="Lucida Console"][SIZE="5"]Screenshots:[/SIZE][/FONT]
