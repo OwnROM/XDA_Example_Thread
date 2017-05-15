@@ -22,82 +22,50 @@ A lot.[/CENTER][/CODE]
 - [COLOR="Orange"][B][I][U]FULLY TRANSLATED TO DUTCH (NL)!!!!![/U][/I][/B][/COLOR]
 - Voted Apps:
 [HIDE]
-  - Nova Launcher (instead of Trebuchet)
-  - Google Chrome (instead of AOSP Browser)
-  - ESFileExplorer (instead of CMFileManager)
 [COLOR="Red"](Join us on G+ (link below) to help us make importand choices)[/COLOR]
 [/HIDE]
-- ROM and Kernel build with UBER-TC
-- OwnKernel-Angler
-- Root Acces (Activate trough Developer Options)
+-  Root Acces (Magisk Manager)
 - Optional decryption
-- CMTE
+- 100% Overlay manager service Compatible
 - Quick Tiles Customizations
--Improved Colorpicker
+- Improved Colorpicker
 [/HIDE]
 [SIZE="3"]OwnSettings:[/SIZE]
 [HIDE]
 [SIZE="2"]StatusBar[/SIZE]
 [HIDE]
-- Statusbar icons
-- Hide SuperUser icon
-- OwnROM icon in statusbar
-- Clock and Date Settings
-  Hide, font, color, size, date format
-- Battery options
-   Icon, percentage, BatteryBar (Location, Style, Charge animation, color, width)
-- Others
-   Screenbrightnes control, Network Traffic (Color, BPS, Update Interval, Automatic hide[B][COLOR="red"]Color arrows to, Updated[/COLOR][/B]), Notification Count
+- Hide Bleutooth battery status icon
+- Network Traffic (Color, BPS, Update Interval, Automatic hide)
 [/HIDE]
 [SIZE="2"]Notification Drawer:[/SIZE]
 [HIDE]
-- Quick Open
-- Time Contextual Headers
-- [B][COLOR="red"]Caf Task Manager[/COLOR][/B]
-[/HIDE]
-[SIZE="2"]Buttons:[/SIZE]
-[HIDE]
-- Navbar 
-  Show Navbar, Left handed modes, Dimensions, Re-arange, Cursor control, Color, DT2S
-- SlimDIM
-- Hardware Buttons
-  Remap, Enable, Disable
-- [B][COLOR="red"]PA PIE (V3.0)[/COLOR][/B]
-- Volume Buttons
-  Wake Device, Music Control, Cursor Control, Switch Orientation
+- Force Expanded Notifications
+- Disable Expanded Notificaitons
 [/HIDE]
 [SIZE="2"]- Recents Apps Screen:[/SIZE]
 [HIDE]
-  Fullscreen, Show Search Bar, RAM Bar, Close all Recents Button (Location, Inlude forground app)
-- OmniSwitch (+ Option to set as default recents screen
-[COLOR="Red"][B]- Slims recent apps screen + appbar[/B][/COLOR]
-[/HIDE]
-[COLOR="red"][SIZE="2"]Lockscreen: [/SIZE][/COLOR]
-[HIDE]
-[COLOR="red"][B]-Slims Lockscreen Shortcuts[/B][/COLOR]
--CMs Corner Shortcuts
-[/HIDE]
-[COLOR="red"][SIZE="2"]Gestures:[/SIZE][/COLOR]
-[HIDE]
-[COLOR="red"][B]- App Side Bar
-- App Circle Side Bar[/B][/COLOR]
-- Gesture Anywhere
+-  Fullscreen, 
+- RAM Bar
 [/HIDE]
 [SIZE="2"]Animations:[/SIZE]
 [Hide]
 - System animations
 - Toast animations
 - Listview animations
-- Listview interpolator[/COLOR][/B]
+- Listview interpolator
+- PowerMenu animations
+- QS animations 
+- QS interpolators
 [/HIDE]
-[SIZE="2"]OwnROM ChangeLog[/SIZE]
+[SIZE="2"]About OwnROM[/SIZE]
 [HIDE]
-- See All changes we made
+- OwnROM Changelog
+- Share OwnROM
+- Github link
+- G+ Link
+- Official maintainers list
+- (Will have a OTA Update center in the near future)
 [/HIDE]
-[/HIDE]
-[SIZE="3"]Kernel Settings[/SIZE]
-[HIDE]
-- Kernel Adiutor
 [/HIDE]
 [SIZE="3"]Sounds:[/SIZE]
 [HIDE]
@@ -105,24 +73,19 @@ A lot.[/CENTER][/CODE]
 - Incrasing Ringtone
 - Vibration intensetie
 [/HIDE]
-[SIZE="3"]Display and Lights[/SIZE]
-[HIDE]
 [SIZE="2"]Display[/SIZE]
 [HIDE]
 - Brightness control
 - Live Display
 - Screen rotation(0, 90, 180, 270 degrees)
 - Active Display
-- DT2W
-- DT2S
-- [COLOR="red"][B]Slims Doze Options[/B][/COLOR]
+- DT2W (if kernel supports)
+- Immersive Desktop
 [/HIDE]
 [SIZE="2"]Interface[/SIZE]
 [HIDE]
 - Expanded Desktop
 - LCD Density
-- Toast Icon Switch
-- Font Size
 [/HIDE]
 [SIZE="2"]Lights[/SIZE]
 [HIDE]
@@ -131,7 +94,7 @@ A lot.[/CENTER][/CODE]
 [/HIDE]
 [SIZE="3"]Notifications:[/SIZE]
 [HIDE]
-- Heads Up (Switch on/off, Do not disturb)
+- Headsup Switch
 [/HIDE]
 [SIZE="3"]LockScreen:[/SIZE]
 [HIDE]
@@ -140,16 +103,8 @@ A lot.[/CENTER][/CODE]
 - Custom Corner Shortcuts
 - Music Visualizer
 [/HIDE]
-[SIZE="3"]Battery:[/SIZE]
+[SIZE="3"]Others:[/SIZE]
 [HIDE]
-- Waring Color (Switch  On/Off)
-- Set Waring on custom percentage
-[/HIDE]
-[SIZE="3"]Security:[/SIZE]
-[HIDE]
-- Optional Encryption
-- Screen Pinning
-[/HIDE]
 [SIZE="3"]Multi User[/SIZE]
 [SIZE="3"]System Profiles[/SIZE]
 [SIZE="3"]App Permisions[/SIZE]
@@ -162,7 +117,8 @@ A lot.[/CENTER][/CODE]
 
 [FONT="Lucida Console"][SIZE="5"]Downloads:[/SIZE][/FONT]
 [HIDE]
-<add download links here>
+[URL="https://www.your_download_location.com"]ROM & Vendors [/URL]
+[URL="http://opengapps.org/"]G-Apps[/URL]
 [/HIDE]
 
 [FONT="Lucida Console"][SIZE="5"]Installation instructions:[/SIZE][/FONT]
@@ -172,20 +128,21 @@ A lot.[/CENTER][/CODE]
 3. Flash OwnROM
 4. Flash G-apps
 5. Flash Custom Kernel of your liking or keep stock
-6. Boot :)[/HIDE]
+6. Boot :)
+[/HIDE]
 
 [FONT="Lucida Console"][SIZE="5"]Links:[/SIZE][/FONT]
 [URL="https://github.com/OwnROM"]OwnROM Github[/URL]
 [URL="https://github.com/OwnROM-Devices"]OwnROM Devices and Kernel Github[/URL]
-[URL="ownrom.github.com"]OwnROM Website[/URL]
+[URL="OwnDroid.github.com"]OwnROM Website[/URL]
 [URL="https://plus.google.com/u/0/communities/108869588356214314591"]OwnROM G+[/URL]
-[URL="https://raw.githubusercontent.com/OwnROM/android/own-mm/Changelog.txt"]Changelog[/URL]
 [URL="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6D47RR4JRTHAY"]Donations[/URL] 
 
 [FONT="Lucida Console"][SIZE="5"]Thanks to:[/SIZE][/FONT]
 The Whole OwnDroid Team
 AOSP
 Google
+LineageOS
 CyanogenMod
 AOSPA
 OmniROM
@@ -194,3 +151,19 @@ G-apps
 Most importantly YOU - the users
 
 Anybody left out please do feel free to PM me :)
+
+[B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
+[SIZE=3][B]OwnROM, ROM for the <insert device>[/B][/SIZE]
+
+[B][U]Contributors[/U][/B]
+[URL="https://forum.xda-developers.com/member.php?u=5364955"]OwnDroid[/URL]    
+[B]Source Code:[/B] [URL="https://www.github.com/OwnROM"]https://www.github.com/OwnROM[/URL]
+
+[B]ROM OS Version:[/B] 7.x Nougat
+[B]Based On:[/B] LineageOS
+
+[B][U]Version Information[/U][/B]
+[B]Status:[/B] Stable
+
+[B]Created[/B] 2017-05-15
+[B]Last Updated[/B] 2017-05-15
