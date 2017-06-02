@@ -1,10 +1,10 @@
 [CENTER][IMG]http://i.imgur.com/H6D8VFS.png[/IMG]
 
-[CENTER][COLOR="Red"][B]please be patient and all features will find their way back... 
-[/B][/COLOR][/CENTER]
+[COLOR="Red"][B]please be patient and all features will find their way back... 
+[/B][/COLOR]
 
 
-[CODE][CENTER][COLOR="red"]YOUR WARRANTY IS NOW VOID[/COLOR]
+[CODE][COLOR="red"][CENTER]YOUR WARRANTY IS NOW VOID[/COLOR]
 I am not responsible for bricked devices, dead SD cards,
 thermonuclear war, or you getting fired because the alarm app failed. Please
 do some research if you have any concerns about features included in this ROM
@@ -21,9 +21,12 @@ A lot.[/CENTER][/CODE]
 [HIDE]
 - [COLOR="Orange"][B][I][U]FULLY TRANSLATED TO DUTCH (NL)!!!!![/U][/I][/B][/COLOR]
 - Voted Apps:
-[HIDE]
+[COLOR="Red"] * Nova Launcher instead of Trebuchet
+* Amaze Filemanager instead of LOSFilemanager
+* GBoard instead of AOSP KeyBoard[/COLOR]
+
 [COLOR="Red"](Join us on G+ (link below) to help us make importand choices)[/COLOR]
-[/HIDE]
+
 -  Root Acces (Magisk Manager)
 - Optional decryption
 - 100% Overlay manager service Compatible
@@ -34,6 +37,11 @@ A lot.[/CENTER][/CODE]
 [HIDE]
 [SIZE="2"]StatusBar[/SIZE]
 [HIDE]
+[COLOR="red"]- SystemUI tuner
+- Notification Count
+- Clock Settings (Position, AM,PM)
+- Quick open
+- Double tap to sleep[/COLOR]
 - Hide Bleutooth battery status icon
 - Network Traffic (Color, BPS, Update Interval, Automatic hide)
 [/HIDE]
@@ -57,13 +65,16 @@ A lot.[/CENTER][/CODE]
 - QS animations 
 - QS interpolators
 [/HIDE]
-[SIZE="2"]About OwnROM[/SIZE]
+[SIZE="2"]OwnROM Center[/SIZE]
 [HIDE]
+[COLOR="red"]- OTA Updater (ROM, G-apps, Kernel, Vendor)[/COLOR]
 - OwnROM Changelog
+[COLOR="red"]- OwnROM Walls (Download all kinds of OwnROM Wallpapers)[/COLOR]
 - Share OwnROM
 - Github link
 - G+ Link
 - Official maintainers list
+- [COLOR="Red"]Team List[/COLOR]
 - (Will have a OTA Update center in the near future)
 [/HIDE]
 [/HIDE]
@@ -113,12 +124,12 @@ A lot.[/CENTER][/CODE]
 [/HIDE]
 
 [FONT="Lucida Console"][SIZE="5"]Screenshots:[/SIZE][/FONT]
-[HIDE][URL="https://plus.google.com/+MarkVisser10021991/posts/YHtrnYAm8p1"] CLICK HERE FOR SCREENSHOTS[/URL][/HIDE]
+[HIDE][URL="https://plus.google.com/+MarkVisser10021991/posts/7k32rNNFiYT"] CLICK HERE FOR SCREENSHOTS[/URL][/HIDE]
 
 [FONT="Lucida Console"][SIZE="5"]Downloads:[/SIZE][/FONT]
 [HIDE]
-[URL="https://www.your_download_location.com"]ROM & Vendors [/URL]
-[URL="http://opengapps.org/"]G-Apps[/URL]
+[URL="https://sourceforge.net/projects/own-rom/files/One%20Plus3%2C3t%20%28OnePlus3%2C3t%29/"]ROM[/URL]
+[URL="http://opengapps.org/"]G-Apps[/URL] (ARM64/7.1/Pico)
 [/HIDE]
 
 [FONT="Lucida Console"][SIZE="5"]Installation instructions:[/SIZE][/FONT]
@@ -134,7 +145,7 @@ A lot.[/CENTER][/CODE]
 [FONT="Lucida Console"][SIZE="5"]Links:[/SIZE][/FONT]
 [URL="https://github.com/OwnROM"]OwnROM Github[/URL]
 [URL="https://github.com/OwnROM-Devices"]OwnROM Devices and Kernel Github[/URL]
-[URL="OwnDroid.github.com"]OwnROM Website[/URL]
+[URL="https://ownrom.netlify.com/"]OwnROM Website[/URL]
 [URL="https://plus.google.com/u/0/communities/108869588356214314591"]OwnROM G+[/URL]
 [URL="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6D47RR4JRTHAY"]Donations[/URL] 
 
@@ -153,7 +164,7 @@ Most importantly YOU - the users
 Anybody left out please do feel free to PM me :)
 
 [B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
-[SIZE=3][B]OwnROM, ROM for the <insert device>[/B][/SIZE]
+[SIZE=3][B]OwnROM, ROM for the OnePlus 3T[/B][/SIZE]
 
 [B][U]Contributors[/U][/B]
 [URL="https://forum.xda-developers.com/member.php?u=5364955"]OwnDroid[/URL]    
@@ -164,6 +175,8 @@ Anybody left out please do feel free to PM me :)
 
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] Stable
+[B]Current Stable Version:[/B] 20170602
+[B]Stable Release Date:[/B] 2017-06-02
 
-[B]Created[/B] 2017-05-15
-[B]Last Updated[/B] 2017-05-15
+[B]Created[/B] 2017-06-02
+[B]Last Updated[/B] 2017-06-02
