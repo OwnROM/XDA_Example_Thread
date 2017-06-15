@@ -20,10 +20,14 @@ A lot.[/CENTER][/CODE]
 [SIZE="3"]General:[/SIZE]
 [HIDE]
 - [COLOR="Orange"][B][I][U]FULLY TRANSLATED TO DUTCH (NL)!!!!![/U][/I][/B][/COLOR]
+[COLOR="Red"]- 100 % Working OOS camera (no snap camera)
+- 3 Minit Battery Hook[/COLOR]
+- 100% Up-To-Date EAS commits by [MENTION=6745491]joshuous[/MENTION]
+- OwnKernel OwnPlus3/t included
 - Voted Apps:
-[COLOR="Red"] * Nova Launcher instead of Trebuchet
+* Nova Launcher instead of Trebuchet
 * Amaze Filemanager instead of LOSFilemanager
-* GBoard instead of AOSP KeyBoard[/COLOR]
+* GBoard instead of AOSP KeyBoard
 
 [COLOR="Red"](Join us on G+ (link below) to help us make importand choices)[/COLOR]
 
@@ -35,15 +39,32 @@ A lot.[/CENTER][/CODE]
 [/HIDE]
 [SIZE="3"]OwnSettings:[/SIZE]
 [HIDE]
+[SIZE="2"]Buttons[/SIZE]
+[HIDE]
+- Navbar switch
+- Smartbar Settings
+- Fling Settings
+- Pulse Settings
+-  Hardware Backlight settings
+- Hardware Keys Settings
+- Power Butten Settings
+- Volume Button Settings
+[COLOR="red"]- Scheenshot type (full screen/partial)[/COLOR]
+[/HIDE]
+[SIZE="2"][COLOR="red"]QS Settings[/COLOR][/SIZE]
+[HIDE]
+[COLOR="red"]- Brightness slider settings
+[/COLOR][/HIDE]
 [SIZE="2"]StatusBar[/SIZE]
 [HIDE]
-[COLOR="red"]- SystemUI tuner
+- SystemUI tuner
 - Notification Count
 - Clock Settings (Position, AM,PM)
 - Quick open
-- Double tap to sleep[/COLOR]
+- Double tap to sleep
 - Hide Bleutooth battery status icon
 - Network Traffic (Color, BPS, Update Interval, Automatic hide)
+- Batterybar
 [/HIDE]
 [SIZE="2"]Notification Drawer:[/SIZE]
 [HIDE]
@@ -54,6 +75,7 @@ A lot.[/CENTER][/CODE]
 [HIDE]
 -  Fullscreen, 
 - RAM Bar
+[COLOR="red"]- OmniSwitch (+ option to set as default recents screen)[/COLOR]
 [/HIDE]
 [SIZE="2"]Animations:[/SIZE]
 [Hide]
@@ -130,6 +152,8 @@ A lot.[/CENTER][/CODE]
 [HIDE]
 [URL="https://sourceforge.net/projects/own-rom/files/One%20Plus3%2C3t%20%28OnePlus3%2C3t%29/"]ROM[/URL]
 [URL="http://opengapps.org/"]G-Apps[/URL] (ARM64/7.1/Pico)
+[URL="https://www.androidfilehost.com/?w=files&flid=171162"]Firmware Files 3t[/URL] (Radio,Bootloaders etc)
+[URL="https://www.androidfilehost.com/?w=files&flid=139137"]Firmware Files 3[/URL] (Radio,Bootloaders etc)
 [/HIDE]
 
 [FONT="Lucida Console"][SIZE="5"]Installation instructions:[/SIZE][/FONT]
@@ -158,6 +182,8 @@ CyanogenMod
 AOSPA
 OmniROM
 SlimROMs
+ [MENTION=6745491]joshuous[/MENTION] - For his EAS work on device trees 
+ [MENTION=5438598]RenderBroken[/MENTION] - For his EAS work on kernel
 G-apps
 Most importantly YOU - the users
 
@@ -175,8 +201,8 @@ Anybody left out please do feel free to PM me :)
 
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] Stable
-[B]Current Stable Version:[/B] 20170602
+[B]Current Stable Version:[/B] 20170614
 [B]Stable Release Date:[/B] 2017-06-02
 
 [B]Created[/B] 2017-06-02
-[B]Last Updated[/B] 2017-06-02
+[B]Last Updated[/B] 2017-06-14
