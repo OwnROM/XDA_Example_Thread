@@ -14,6 +14,8 @@ A lot.[/CENTER][/CODE]
 
 [img]https://lh3.googleusercontent.com/-PxUHLlSYZQs/VYQslZmF4ZI/AAAAAAAAEAI/oqz2LY1NqNA/w346-h252/OwnROM%2Bbanner.png[/img][/CENTER]
 
+[CENTER][B][U]Click [URL="https://crowdin.com/project/ownsettings"]HERE[/URL] if you want to help translate OwnSettings to your desired language![/U][/B][/CENTER]
+
 [FONT="Lucida Console"][SIZE="5"]Features:[/SIZE][/FONT]
 [HIDE]
 [SIZE="2"][COLOR="Red"]All new Features in last build displayed in RED[/COLOR][/SIZE]
@@ -182,8 +184,6 @@ CyanogenMod
 AOSPA
 OmniROM
 SlimROMs
- [MENTION=6745491]joshuous[/MENTION] - For his EAS work on device trees 
- [MENTION=5438598]RenderBroken[/MENTION] - For his EAS work on kernel
 G-apps
 Most importantly YOU - the users
 
