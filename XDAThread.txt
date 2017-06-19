@@ -22,8 +22,8 @@ A lot.[/CENTER][/CODE]
 [SIZE="3"]General:[/SIZE]
 [HIDE]
 - [COLOR="Orange"][B][I][U]FULLY TRANSLATED TO DUTCH (NL)!!!!![/U][/I][/B][/COLOR]
-[COLOR="Red"]- 100 % Working OOS camera (no snap camera)
-- 3 Minit Battery Hook[/COLOR]
+- 100 % Working OOS camera (no snap camera)
+- 3 Minit Battery Hook
 - 100% Up-To-Date EAS commits by [MENTION=6745491]joshuous[/MENTION]
 - OwnKernel OwnPlus3/t included
 - Voted Apps:
@@ -33,7 +33,7 @@ A lot.[/CENTER][/CODE]
 
 [COLOR="Red"](Join us on G+ (link below) to help us make importand choices)[/COLOR]
 
--  Root Acces (Magisk Manager)
+-  [COLOR="Red"]No Root Acces - Flash desired root zip if wanted!!! [/COLOR]
 - Optional decryption
 - 100% Overlay manager service Compatible
 - Quick Tiles Customizations
@@ -51,12 +51,12 @@ A lot.[/CENTER][/CODE]
 - Hardware Keys Settings
 - Power Butten Settings
 - Volume Button Settings
-[COLOR="red"]- Scheenshot type (full screen/partial)[/COLOR]
+- Scheenshot type (full screen/partial)
 [/HIDE]
-[SIZE="2"][COLOR="red"]QS Settings[/COLOR][/SIZE]
+[SIZE="2"]QS Settings[/SIZE]
 [HIDE]
-[COLOR="red"]- Brightness slider settings
-[/COLOR][/HIDE]
+- Brightness slider settings
+[/HIDE]
 [SIZE="2"]StatusBar[/SIZE]
 [HIDE]
 - SystemUI tuner
@@ -77,7 +77,7 @@ A lot.[/CENTER][/CODE]
 [HIDE]
 -  Fullscreen, 
 - RAM Bar
-[COLOR="red"]- OmniSwitch (+ option to set as default recents screen)[/COLOR]
+- OmniSwitch (+ option to set as default recents screen)
 [/HIDE]
 [SIZE="2"]Animations:[/SIZE]
 [Hide]
@@ -89,17 +89,21 @@ A lot.[/CENTER][/CODE]
 - QS animations 
 - QS interpolators
 [/HIDE]
+[SIZE="2"]Others:[/SIZE]
+[Hide]
+- Selinux Swtich
+[/HIDE]
 [SIZE="2"]OwnROM Center[/SIZE]
 [HIDE]
-[COLOR="red"]- OTA Updater (ROM, G-apps, Kernel, Vendor)[/COLOR]
+- OTA Updater (ROM, G-apps, Kernel, Vendor)
 - OwnROM Changelog
-[COLOR="red"]- OwnROM Walls (Download all kinds of OwnROM Wallpapers)[/COLOR]
+- OwnROM Walls (Download all kinds of OwnROM Wallpapers)
 - Share OwnROM
 - Github link
 - G+ Link
 - Official maintainers list
-- [COLOR="Red"]Team List[/COLOR]
-- (Will have a OTA Update center in the near future)
+Team List
+- OTA Update center
 [/HIDE]
 [/HIDE]
 [SIZE="3"]Sounds:[/SIZE]
@@ -139,6 +143,7 @@ A lot.[/CENTER][/CODE]
 - Music Visualizer
 [/HIDE]
 [SIZE="3"]Others:[/SIZE]
+[COLOR="Red"]- SeLinux Swtich[/COLOR]
 [HIDE]
 [SIZE="3"]Multi User[/SIZE]
 [SIZE="3"]System Profiles[/SIZE]
@@ -164,6 +169,7 @@ A lot.[/CENTER][/CODE]
 2. Erase '/system', '/data', Cache and Dalvik Cache
 3. Flash OwnROM
 4. Flash G-apps
+5. Flash desired root zip - if wanted
 5. Flash Custom Kernel of your liking or keep stock
 6. Boot :)
 [/HIDE]
