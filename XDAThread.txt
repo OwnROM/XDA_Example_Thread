@@ -52,6 +52,7 @@ A lot.[/CENTER][/CODE]
 - Power Butten Settings
 - Volume Button Settings
 - Scheenshot type (full screen/partial)
+[COLOR="red"]- Extra Notification Slider Options[/COLOR]
 [/HIDE]
 [SIZE="2"]QS Settings[/SIZE]
 [HIDE]
@@ -67,6 +68,7 @@ A lot.[/CENTER][/CODE]
 - Hide Bleutooth battery status icon
 - Network Traffic (Color, BPS, Update Interval, Automatic hide)
 - Batterybar
+[COLOR="red"]- Statusbar Ticker[/COLOR]
 [/HIDE]
 [SIZE="2"]Notification Drawer:[/SIZE]
 [HIDE]
@@ -78,6 +80,7 @@ A lot.[/CENTER][/CODE]
 -  Fullscreen, 
 - RAM Bar
 - OmniSwitch (+ option to set as default recents screen)
+[COLOR="red"][COLOR="red"]- Recents Clear All Fab + Location[/COLOR][/COLOR]
 [/HIDE]
 [SIZE="2"]Animations:[/SIZE]
 [Hide]
@@ -92,6 +95,7 @@ A lot.[/CENTER][/CODE]
 [SIZE="2"]Others:[/SIZE]
 [Hide]
 - Selinux Swtich
+- [COLOR="Red"]Dashboard Collumns[/COLOR]
 [/HIDE]
 [SIZE="2"]OwnROM Center[/SIZE]
 [HIDE]
@@ -142,8 +146,6 @@ Team List
 - Custom Corner Shortcuts
 - Music Visualizer
 [/HIDE]
-[SIZE="3"]Others:[/SIZE]
-[COLOR="Red"]- SeLinux Swtich[/COLOR]
 [HIDE]
 [SIZE="3"]Multi User[/SIZE]
 [SIZE="3"]System Profiles[/SIZE]
