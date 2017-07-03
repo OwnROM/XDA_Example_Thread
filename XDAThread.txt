@@ -33,6 +33,20 @@ A lot.[/CENTER][/CODE]
 
 [COLOR="Red"](Join us on G+ (link below) to help us make importand choices)[/COLOR]
 
+[FONT="Lucida Console"][SIZE="5"]Features:[/SIZE][/FONT]
+[HIDE]
+[SIZE="2"][COLOR="Red"]All new Features in last build displayed in RED[/COLOR][/SIZE]
+[SIZE="3"]General:[/SIZE]
+[HIDE]
+- [COLOR="Orange"][B][I][U]FULLY TRANSLATED TO DUTCH (NL)!!!!![/U][/I][/B][/COLOR]
+- 3 Minit Battery Hook
+- Voted Apps:
+* Nova Launcher instead of Trebuchet
+* Amaze Filemanager instead of LOSFilemanager
+* GBoard instead of AOSP KeyBoard
+
+[COLOR="Red"](Join us on G+ (link below) to help us make importand choices)[/COLOR]
+
 -  [COLOR="Red"]No Root Acces - Flash desired root zip if wanted!!! [/COLOR]
 - Optional decryption
 - 100% Overlay manager service Compatible
@@ -52,11 +66,12 @@ A lot.[/CENTER][/CODE]
 - Power Butten Settings
 - Volume Button Settings
 - Scheenshot type (full screen/partial)
-[COLOR="red"]- Extra Notification Slider Options[/COLOR]
 [/HIDE]
 [SIZE="2"]QS Settings[/SIZE]
 [HIDE]
 - Brightness slider settings
+[COLOR="red"]- Custom Rows and Collumns
+- Small QS count[/COLOR]
 [/HIDE]
 [SIZE="2"]StatusBar[/SIZE]
 [HIDE]
@@ -68,7 +83,11 @@ A lot.[/CENTER][/CODE]
 - Hide Bleutooth battery status icon
 - Network Traffic (Color, BPS, Update Interval, Automatic hide)
 - Batterybar
-[COLOR="red"]- Statusbar Ticker[/COLOR]
+- Statusbar Ticker
+[COLOR="red"]- Custom Charging symbol (flash/tidle)
+- Data activity arrows (WiFi/LTE)
+- VoLTE icon switch
+- 4G/LTE Switch[/COLOR]
 [/HIDE]
 [SIZE="2"]Notification Drawer:[/SIZE]
 [HIDE]
@@ -80,7 +99,7 @@ A lot.[/CENTER][/CODE]
 -  Fullscreen, 
 - RAM Bar
 - OmniSwitch (+ option to set as default recents screen)
-[COLOR="red"][COLOR="red"]- Recents Clear All Fab + Location[/COLOR][/COLOR]
+- Recents Clear All Fab + Location
 [/HIDE]
 [SIZE="2"]Animations:[/SIZE]
 [Hide]
@@ -95,7 +114,7 @@ A lot.[/CENTER][/CODE]
 [SIZE="2"]Others:[/SIZE]
 [Hide]
 - Selinux Swtich
-- [COLOR="Red"]Dashboard Collumns[/COLOR]
+Dashboard Collumns
 [/HIDE]
 [SIZE="2"]OwnROM Center[/SIZE]
 [HIDE]
