@@ -1,6 +1,6 @@
 [CENTER][IMG]http://i.imgur.com/H6D8VFS.png[/IMG]
 
-[COLOR="Red"][B]please be patient and all features will find their way back... 
+[COLOR="Red"][B]Please Be Patient And All The Features Will Find Their Way Back... 
 [/B][/COLOR]
 
 
@@ -18,7 +18,7 @@ A lot.[/CENTER][/CODE]
 
 [FONT="Lucida Console"][SIZE="5"]Features:[/SIZE][/FONT]
 [HIDE]
-[SIZE="2"][COLOR="Red"]All new Features in last build displayed in RED[/COLOR][/SIZE]
+[SIZE="2"][COLOR="Red"]All new Features in last build are displayed in RED[/COLOR][/SIZE]
 [SIZE="3"]General:[/SIZE]
 [HIDE]
 - [COLOR="Orange"][B][I][U]FULLY TRANSLATED TO DUTCH (NL)!!!!![/U][/I][/B][/COLOR]
@@ -47,7 +47,7 @@ A lot.[/CENTER][/CODE]
 
 [COLOR="Red"](Join us on G+ (link below) to help us make importand choices)[/COLOR]
 
--  [COLOR="Red"]No Root Acces - Flash desired root zip if wanted!!! [/COLOR]
+-  [COLOR="Red"]No Root Access - Flash desired root zip if wanted!!! [/COLOR]
 - Optional decryption
 - 100% Overlay manager service Compatible
 - Quick Tiles Customizations
@@ -57,20 +57,20 @@ A lot.[/CENTER][/CODE]
 [HIDE]
 [SIZE="2"]Buttons[/SIZE]
 [HIDE]
-- Navbar switch
+- Navbar Switch
 - Smartbar Settings
 - Fling Settings
 - Pulse Settings
--  Hardware Backlight settings
+- Hardware Backlight settings
 - Hardware Keys Settings
 - Power Butten Settings
 - Volume Button Settings
-- Scheenshot type (full screen/partial)
+- Scheenshot Type (full screen/partial)
 [/HIDE]
 [SIZE="2"]QS Settings[/SIZE]
 [HIDE]
 - Brightness slider settings
-[COLOR="red"]- Custom Rows and Collumns
+[COLOR="red"]- Custom Rows and Columns
 - Small QS count[/COLOR]
 [/HIDE]
 [SIZE="2"]StatusBar[/SIZE]
@@ -80,11 +80,11 @@ A lot.[/CENTER][/CODE]
 - Clock Settings (Position, AM,PM)
 - Quick open
 - Double tap to sleep
-- Hide Bleutooth battery status icon
+- Hide Bluetooth battery status icon
 - Network Traffic (Color, BPS, Update Interval, Automatic hide)
 - Batterybar
 - Statusbar Ticker
-[COLOR="red"]- Custom Charging symbol (flash/tidle)
+[COLOR="red"]- Custom Charging Symbol (flash/tidle)
 - Data activity arrows (WiFi/LTE)
 - VoLTE icon switch
 - 4G/LTE Switch[/COLOR]
@@ -92,11 +92,11 @@ A lot.[/CENTER][/CODE]
 [SIZE="2"]Notification Drawer:[/SIZE]
 [HIDE]
 - Force Expanded Notifications
-- Disable Expanded Notificaitons
+- Disable Expanded Notifications
 [/HIDE]
 [SIZE="2"]- Recents Apps Screen:[/SIZE]
 [HIDE]
--  Fullscreen, 
+- Fullscreen, 
 - RAM Bar
 - OmniSwitch (+ option to set as default recents screen)
 - Recents Clear All Fab + Location
@@ -113,7 +113,7 @@ A lot.[/CENTER][/CODE]
 [/HIDE]
 [SIZE="2"]Others:[/SIZE]
 [Hide]
-- Selinux Swtich
+- Selinux Switch
 Dashboard Collumns
 [/HIDE]
 [SIZE="2"]OwnROM Center[/SIZE]
@@ -132,8 +132,8 @@ Team List
 [SIZE="3"]Sounds:[/SIZE]
 [HIDE]
 - Link Volumes
-- Incrasing Ringtone
-- Vibration intensetie
+- Increasing Ringtone
+- Vibration Intensity
 [/HIDE]
 [SIZE="2"]Display[/SIZE]
 [HIDE]
